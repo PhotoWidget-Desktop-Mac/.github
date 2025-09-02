@@ -1,4 +1,4 @@
-# PhotoWidget — Download For Mac OS
+# PhotoWidget — Desktop App For Mac OS
 ![logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/0d/7b/0e0d7b4f-d3f0-872c-8cd0-5d02d213e997/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg)
 
 PhotoWidget for Mac lets you display your favorite photos as customizable desktop widgets 🌟.  
